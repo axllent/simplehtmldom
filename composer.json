@@ -1,0 +1,26 @@
+{
+    "name": "axllent/simplehtmldom",
+    "description": "PHP Simple HTML DOM Parser with namespace & bug fixes",
+    "keywords": ["html", "dom", "simple"],
+    "homepage": "http://simplehtmldom.sourceforge.net/",
+    "type": "library",
+    "license": "The MIT License (MIT)",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "email": "me578022@gmail.com"
+        },
+        {
+            "name": "Ralph Slooten",
+            "email": "axllent@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "SimpleHtmlDom\\": "src/"
+        }
+    }
+}
