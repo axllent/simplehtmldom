@@ -20,7 +20,10 @@
     },
     "autoload": {
         "psr-0": {
-            "SimpleHtmlDom\\": "src/"
-        }
+            "SimpleHtmlDom": "src/"
+        },
+        "files": [
+            "src/simple_html_dom.php"
+        ]
     }
 }
