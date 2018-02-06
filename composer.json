@@ -4,7 +4,7 @@
     "keywords": ["html", "dom", "simple"],
     "homepage": "http://simplehtmldom.sourceforge.net/",
     "type": "library",
-    "license": "The MIT License (MIT)",
+    "license": "MIT",
     "authors": [
         {
             "name": "S.C. Chen",
