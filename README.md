@@ -1,6 +1,6 @@
 # SimpleHtmlDom
 
-This is a fork of the original [Simple HTML DOM Parser](https://sourceforge.net/p/simplehtmldom/) with namespace & bug fixes.
+This is a fork of the original [Simple HTML DOM Parser](https://sourceforge.net/projects/simplehtmldom/) with namespace & bug fixes.
 
 The only noticeable difference to the original package is the composer installation method and namespace reference.
 
@@ -25,4 +25,4 @@ $dom = SimpleHtmlDom\:file_get_html($url);
 $dom = SimpleHtmlDom\str_get_html($html);
 ```
 
-For official documentation and examples refer to the [official documentation](http://simplehtmldom.sourceforge.net/manual.htm).
+For official documentation and examples refer to the [official documentation](https://simplehtmldom.sourceforge.io/manual.htm).
