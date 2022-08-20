@@ -2,6 +2,11 @@ Changelog
 
 Notable changes to this project will be documented in this file.
 
+## 1.6.1
+
+- Handle null selector value (PHP 8.1)
+
+
 ## 1.6.0
 
 - Merge in changes & patches from https://github.com/samacs/simple_html_dom for php7.3 support
